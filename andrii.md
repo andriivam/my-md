@@ -24,8 +24,9 @@
 
 ## My goals with BeCode
 
-- I want ot improve my coding skills
   ![coding](assets/coding.gif)
+
+- I want ot improve my coding skills
 - I would like to find new friends who loves coding same as me.
 - In the end of course i hope to be good enough to find a job.
 
@@ -43,6 +44,7 @@
 ![teamwork](assets/teamwork.gif)
 
 - I am team player and i think **Team work make dream work** so will expect from my teammates:
-- to be open fro conversation
-- ask questions if you stuck at some point
-- share your minds about the projects
+- To be open fro conversation
+- Ask questions if you stuck at some point
+- Share your minds about the projects
+- Always be part of the team
