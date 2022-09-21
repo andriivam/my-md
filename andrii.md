@@ -46,3 +46,4 @@
 - to be open fro conversation
 - ask questions if you stuck at some point
 - share your minds about the projects
+- always be part of the team
