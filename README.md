@@ -7,9 +7,9 @@
 - I am from Ukraine. I am 30 years old. I am really like nature, fishing and coding.
 
 ## My super-skills
+
  <img src="assets/skills.png" width="400" height="400">
-
-
+ 
 - Fishing
 - Reading
 - Coding
@@ -46,3 +46,9 @@
 - to be open fro conversation
 - ask questions if you stuck at some point
 - share your minds about the projects
+
+## How you can find me
+
+[<img src='assets/contact_pic/linkedin.jpeg' alt='LinkedIn' height='60' width='80'>](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%B2%D0%BB%D0%B0%D1%81%D1%8E%D0%BA-b0030789/)
+[<img src='assets/contact_pic/facebook.png' alt='facebook' height='60' width='80'>](https://www.facebook.com/AndriiVlasiukM)
+[<img src='assets/contact_pic/github.png' alt='github' height='60' width='80'>](https://github.com/andriivam)
