@@ -2,9 +2,9 @@
 
 ![What i have done before](assets/hospitality.gif)
 
-- Before i used to work in hospitality industry and at the moment i am job seeker.
-
 - I am from Ukraine. I am 30 years old. I am really like nature, fishing and coding.
+
+- Before i used to work in hospitality industry and at the moment i am job seeker.
 
 ## My super-skills
 
