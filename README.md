@@ -45,7 +45,7 @@
 ![teamwork](assets/teamwork.gif)
 
 - I am team player and i think **Team work make dream work** so will expect from my teammates:
-- To be open fro conversation
-- Ask questions if you stuck at some point
-- Share your minds about the projects
-- Always be part of the team
+- To be open fro conversation.
+- Ask questions if you stuck at some point.
+- Share your minds about the projects.
+- Always be part of the team.
