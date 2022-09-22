@@ -46,6 +46,7 @@
 - To be open fro conversation
 - Ask questions if you stuck at some point
 - Share your minds about the projects
+- Always be part of the team
 
 ## How you can find me
 
