@@ -43,7 +43,6 @@
 ![teamwork](assets/teamwork.gif)
 
 - I am team player and i think **Team work make dream work** so will expect from my teammates:
-<<<<<<< HEAD
 - To be open fro conversation
 - Ask questions if you stuck at some point
 - Share your minds about the projects
@@ -54,9 +53,3 @@
 [<img src='assets/contact_pic/linkedin.jpeg' alt='LinkedIn' height='60' width='80'>](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%B2%D0%BB%D0%B0%D1%81%D1%8E%D0%BA-b0030789/)
 [<img src='assets/contact_pic/facebook.png' alt='facebook' height='60' width='80'>](https://www.facebook.com/AndriiVlasiukM)
 [<img src='assets/contact_pic/github.png' alt='github' height='60' width='80'>](https://github.com/andriivam)
-=======
-- To be open fro conversation.
-- Ask questions if you stuck at some point.
-- Share your minds about the projects.
-- Always be part of the team.
->>>>>>> ef359e210a0d6a0ce9b3fcc3a5b4cb99a52e82d0
