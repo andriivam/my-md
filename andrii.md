@@ -7,6 +7,7 @@
 - I am from Ukraine. I am 30 years old. I am really like nature, fishing and coding.
 
 ## My super-skills
+
  <img src="assets/skills.png" width="400" height="400">
 
 
