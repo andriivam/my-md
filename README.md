@@ -8,7 +8,7 @@
 
 ## My skills
 
-- Fishing :fishing:
+- Fishing :fish:
 - Reading :book:
 - Coding:
   
@@ -25,6 +25,8 @@
 - Sun :sunny:
 
 ## My goals with BeCode
+
+![target](assets/coding.gif)
 
 - I want ot improve my coding skills
 - I would like to find new friends who loves coding same as me.
